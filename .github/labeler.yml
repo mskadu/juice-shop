@@ -6,4 +6,4 @@ github-workflows:
 
 shop-frontend:
 - changed-files:
-  - any-glob-to-any-file: frontend/**
+  - any-glob-to-any-file: 'frontend/**'
